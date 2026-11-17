@@ -1,0 +1,43 @@
+# Build output
+target/
+
+# IDE metadata
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.metadata/
+.mylyn/
+.plugins/
+
+# Version control
+.git/
+.gitignore
+.gitattributes
+.github/
+
+# VS Code
+.vscode/
+
+# OS artefacts
+.DS_Store
+Thumbs.db
+
+# Spring Boot DevTools restart trigger
+.reloadtrigger
+
+# Maven wrapper (optional – uncomment if you want to exclude)
+# .mvn/
+# mvnw
+# mvnw.cmd
+
+# Documentation
+HELP.md
+*.md
+
+# Lock / log files
+*.lock
+*.lock_info
+*.log
+
